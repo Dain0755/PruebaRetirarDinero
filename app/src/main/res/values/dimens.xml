@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margenes_default">15dp</dimen>
+    <dimen name="width_image">170dp</dimen>
+    <dimen name="height_image">160dp</dimen>
+    <dimen name="text_size">17dp</dimen>
+</resources>

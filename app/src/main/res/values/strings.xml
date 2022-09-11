@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cajero</string>
+    <string name="et_user">User</string>
+    <string name="et_Contrasena">Password</string>
+    <string name="et_Monto">Cash</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_retirar">Retirar</string>
+    <string name="tv_Usuario">...</string>
+    <string name="btn_Transaccion">Transaccion</string>
+    <string name="et_RetirarDinero">Retirar dinero</string>
+</resources>
